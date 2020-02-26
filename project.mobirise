@@ -268,7 +268,8 @@
               "color": "#149dcc"
             },
             ".main-title": {
-              "color": "#149dcc"
+              "color": "#149dcc",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-link-btn": {
               "color": "#767676"
