@@ -1471,7 +1471,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https://calendly.com/karinaweaver\" style=\"min-width:320px;height:900px;\"></div>\n[JS_CODE_0]\n<!-- Calendly inline widget end -->",
+          "_customHTML": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https://calendly.com/karinaweaver\" style=\"min-width:320px;height:920px;\"></div>\n[JS_CODE_0]\n<!-- Calendly inline widget end -->",
           "_customCSS": "",
           "alias": "code-editor",
           "_tags": [
